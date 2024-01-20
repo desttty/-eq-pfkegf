@@ -923,7 +923,7 @@ hr {
   }
 
   .greetings__title {
-    width: 362px;
+    width: 100%;
     height: 54px;
     margin-top: -144px;
     margin-left: 0px;
