@@ -798,7 +798,7 @@ hr {
   text-decoration: none;
 }
 
-@media only screen and (min-width: 390px) and (max-width: 768px) {
+@media only screen and (min-width: 320px) and (max-width: 768px) {
   body {
     overflow-x: hidden;
     max-width: 100%x;
